@@ -1,0 +1,10 @@
+C:\Users\demojag\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe.config
+C:\Users\demojag\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe
+C:\Users\demojag\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.pdb
+C:\Users\demojag\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzCore.dll
+C:\Users\demojag\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\nunit.framework.dll
+C:\Users\demojag\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\FizzBuzzCore.pdb
+C:\Users\demojag\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzConsole\bin\Debug\nunit.framework.xml
+C:\Users\demojag\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.csprojResolveAssemblyReference.cache
+C:\Users\demojag\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.exe
+C:\Users\demojag\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.pdb
